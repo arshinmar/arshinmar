@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 📫 Feel free to reach out and I will get back to you right away!
 
-Website: <a target="_blank" href="https://arshinmar.github.io">arshinmar.github.io</a>  
+Website: <a target="_blank" href="https://arshkadakia.com">arshkadakia.com</a>  
 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/arsh-kadakia-5377a214a/">https://www.linkedin.com/in/arsh-kadakia-5377a214a/</a>  
 Mail: <a target="_blank" href="mailto:arsh.kadakia18@gmail.com">arsh.kadakia18@gmail.com</a> 
