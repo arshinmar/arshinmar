@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 👯 In my spare time, you will find me learning and applying different full-stack technologies. I am currently working with a company, Mastermind Children's Academy, to build a responsive web application that is able to generate valuable consumer insights.
 
-🔭 I am also a project director at U of T Machine Intelligence Student Team (UTMIST), where I led a group of 5 developers to build a consumer-friendly home-price predictor. You can check our work at [real-value.ca](http://www.realvalue.ca) (may take 2-3 minutes to load). 
+🔭 I am also a project director at U of T Machine Intelligence Student Team (UTMIST), where I led a group of 5 developers to build a consumer-friendly home-price predictor. You can check our work at [real-value.ca](http://www.real-value.ca) (may take 2-3 minutes to load). 
 
 📫 Feel free to reach out and I will get back to you right away!
 
