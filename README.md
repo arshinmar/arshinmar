@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 My name is Arsh Kadakia. I am a 3rd year student in the Engineering Science program at the University of Toronto. I am majoring in the Machine Intelligence program, where I am learning in depth about machine learning and data science techologies.
+🌱 My name is Arsh Kadakia. I am a software engineering intern on PEY at Aercoustics. I also study in the Engineering Science program at the University of Toronto. I am majoring in Machine Intelligence, where I am learning in depth about machine learning, deep learning and data science techologies.
 
 👯 In my spare time, you will find me learning and applying different full-stack technologies. I am currently working with a company, Mastermind Children's Academy, to build a responsive web application that is able to generate valuable consumer insights.
 
